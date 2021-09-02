@@ -1,8 +1,10 @@
 # Repositorio semilla: API NodeJS :seedling:
 
+¡Bienvenida/o! En este repositorio encontrarás una plantilla (de las infinitas posibles) para crear una API utilizando NodeJS. El repositorio fue creado por el profesor Federico Aloi estaria muy bien que visiten su canal EL SUR TAMBIEN PROGRAMA ya que hay muchisima informacion.
+
 > Este es uno de los repositorios que utilizamos en la serie **Tu primera aplicación full stack: NodeJS + React**, [disponible en YouTube](https://www.youtube.com/playlist?list=PL7q-McYJyHlgVGQIRYVKl381twyJ4XM_h). Te recomendamos que mires la serie para entender un poco más sobre las tecnologías que elegimos. :smiley:
 
-¡Bienvenida/o! En este repositorio encontrarás una plantilla (de las infinitas posibles) para crear una API utilizando NodeJS. Las principales tecnologías que utilizamos son:
+Las principales tecnologías que utilizamos son:
 
 - [NodeJS](https://nodejs.org/es/): entorno de ejecución para JavaScript.
 - [ExpressJS](https://expressjs.com/): framework para crear aplicaciones web.
